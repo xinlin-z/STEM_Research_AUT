@@ -9,5 +9,9 @@ More words about the code:
 * **training.ipynb**: main training code. The index variable for image files was pre-generated to speed up. Caching all original images data in CPU memory to wave disk IO. Support saving checkpoints automatically to disk and resume training process at any checkpoint later on.
 * **evaluation.ipynb**: evaluation code. Load model and evaluate on two test dataset. Calculate AP, best possible F1-Score and draw PR-curve.
 
+## Quick Result
+
+![quick_result](/quick_result.png)
+
 
 
